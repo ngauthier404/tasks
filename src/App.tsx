@@ -19,9 +19,7 @@ function App(): JSX.Element {
                 UM COS420 with React Hooks and TypeScript
             </header>
             <p>Hello World!</p>
-            <p>
-                <h1>This text is very large.</h1>
-            </p>
+            <h1>This text is very large.</h1>
             <span>
                 <Container>
                     <Row>
